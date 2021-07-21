@@ -1,0 +1,14 @@
+{
+  "commands": [
+    {
+      "id": 1,
+      "howTo": "How to create migrations",
+      "line": "dotnet ef add migrations [MigrationName]"
+    },
+    {
+      "id": 2,
+      "howTo": "How to start json server",
+      "line": "npm run server"
+    }
+  ]
+}
